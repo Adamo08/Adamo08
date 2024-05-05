@@ -43,38 +43,24 @@ A ```Computer Science Engineering student``` with a passion for programming and 
   <h3>Platforms I'm Using to Learn:</h3>
 
   <div>
-    <ol>
-      <li>
         <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
            <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
         </a>
-      </li>
-      <li>
         <a href="https://www.codecademy.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Codecademy-blue?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy Badge"/>
         </a>
-      </li>
-      <li>
         <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/W3schools-green?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3schools Badge"/>
         </a>
-      </li>
-      <li>
         <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Freecodecamp-green?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
         </a>
-      </li>
-      <li>
         <a href="https://www.datacamp.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/DataCamp-blue?style=for-the-badge&logo=DataCamp&logoColor=white" alt="DataCamp Badge"/>
         </a>
-      </li>
-      <li>
         <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
         </a>
-      </li>
-    </ol>
   </div>
 
 </div>
