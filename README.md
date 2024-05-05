@@ -97,3 +97,9 @@ A ```Computer Science Engineering student``` with a passion for programming and 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Adamo08&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="200px">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200px">
 </div>
+
+<br>
+<br>
+<br>
+
+![snake gif](https://github.com/Adamo08/Adamo08/blob/output/github-contribution-grid-snake.gif)
