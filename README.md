@@ -102,4 +102,4 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 <br>
 <br>
 
-![snake gif](https://github.com/Adamo08/Adamo08/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Adamo08/Adamo08/output/snake.svg" alt="Snake animation" />
