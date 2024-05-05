@@ -98,8 +98,8 @@ A ```Computer Science Engineering student``` with a passion for programming and 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200px">
 </div>
 
-<br>
-<br>
-<br>
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Adamo08/Adamo08/output/snake.svg" alt="Snake animation" />
