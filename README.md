@@ -1,15 +1,84 @@
 # Hi there, I'm Adamo! 👋
-A Computer Science Engineering student with a passion for programming and creating innovative solutions.
+A ```Computer Science Engineering student``` with a passion for programming and creating innovative solutions.
+
+## Connect with Me
+<div id="badges">
+    <a href="https://www.linkedin.com/in/omar-el-aaddam-ab77b626a">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://web.facebook.com/omar.elaadam/">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://www.instagram.com/elaaddam_omar/">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://github.com/Adamo08">
+      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    </a>
+</div>
+
 
 ## About Me
+
+<div align="">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rnczl3MWdiNTZqc294dWw1ZnF1M2wwdmYxYnNqZzUyY3l4MWFuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
+</div>
+<br>
+<br>
 <div>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
   <ul>
     <li>🎓 Studying Computer Science Engineering</li>
     <li>💻 Proficient in HTML, CSS, JavaScript, PHP, Python, and C/C++</li>
     <li>🚀 Always eager to learn and explore new technologies</li>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Adamo08&style=flat-square&color=blue" alt="Profile Views Count"/>
   </ul>
 </div>
+
+<br>
+## Learning Platforms
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px;">
+
+  <h3>Platforms I'm Using to Learn:</h3>
+
+  <div>
+    <ol>
+      <li>
+        <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
+           <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.codecademy.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Codecademy-blue?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy Badge"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/W3schools-green?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3schools Badge"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Freecodecamp-green?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.datacamp.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/DataCamp-blue?style=for-the-badge&logo=DataCamp&logoColor=white" alt="DataCamp Badge"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+        </a>
+      </li>
+    </ol>
+  </div>
+
+</div>
+<br>
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,11 +91,6 @@ A Computer Science Engineering student with a passion for programming and creati
 ## Projects (Work in Progress)
 🔄 Loading... I'm currently working on adding more projects. Check back later!
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-aaddam-ab77b626a)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adamo08)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/omar.elaadam/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/elaaddam_omar/)
 
 ## Stats and Coding Activity
 <div style="background-color: #1a1b27; padding: 20px; border-radius: 5px;">
