@@ -21,7 +21,7 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 ## About Me
 
 <div align="">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rnczl3MWdiNTZqc294dWw1ZnF1M2wwdmYxYnNqZzUyY3l4MWFuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
+      <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rnczl3MWdiNTZqc294dWw1ZnF1M2wwdmYxYnNqZzUyY3l4MWFuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif"/>
 </div>
 <br>
 <br>
@@ -80,8 +80,10 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 
 ## Stats and Coding Activity
 <div style="background-color: #1a1b27; padding: 20px; border-radius: 5px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Adamo08&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="200px">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamo08&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+    <br clear="both">
+    <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages" width="100%">
 </div>
 
 <br clear="both">
