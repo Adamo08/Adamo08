@@ -80,10 +80,15 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 
 ## Stats and Coding Activity
 <div style="background-color: #1a1b27; padding: 20px; border-radius: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamo08&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamo08&show_icons=true&theme=radical" alt="GitHub Stats">
     <br clear="both">
     <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages">
+    <br>
+    <br>
+    <a href="http://www.github.com/Adamo08">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamo08&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
 </div>
 
 <br clear="both">
