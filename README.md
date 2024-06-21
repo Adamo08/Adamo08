@@ -29,6 +29,7 @@ A ```Computer Science Engineering student``` with a passion for programming and 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
   <ul>
     <li>🎓 Studying Computer Science Engineering</li>
+      <li>At ENSA-M The national school of applied sciences - Marrakech 🇲🇦 👨🏻‍💻</li>
     <li>💻 Proficient in HTML, CSS, JavaScript, PHP, Python, and C/C++</li>
     <li>🚀 Always eager to learn and explore new technologies</li>
     <br>
