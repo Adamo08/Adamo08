@@ -30,7 +30,7 @@ A ```Computer Science Engineering student``` with a passion for programming and 
   <ul>
     <li>🎓 Studying Computer Science Engineering</li>
     <li>At <a href="https://www.ensa.ac.ma/">ENSA-M</a> The National School Of Applied Sciences - Marrakech 🇲🇦 👨🏻‍💻</li>
-    <li>💻 Proficient in HTML, CSS, JavaScript, PHP, Python, and C/C++</li>
+    <li>💻 Using HTML, CSS, JavaScript, PHP, Python, and C/C++</li>
     <li>🚀 Always eager to learn and explore new technologies</li>
     <br>
     <img src="https://komarev.com/ghpvc/?username=Adamo08&style=flat-square&color=blue" alt="Profile Views Count"/>
