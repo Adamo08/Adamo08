@@ -81,7 +81,10 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 
 ## Stats and Coding Activity
 <div style="background-color: #1a1b27; padding: 20px; border-radius: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adamo08&show_icons=true&theme=radical" alt="GitHub Stats">
+    <br clear="both">
+    <br clear="both">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamo08&layout=compact&theme=radical" alt="Top Languages">
     <br>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamo08&layout=compact&stroke=ffffff&theme=radical&ring=0891b2&fire=0891b2&hide_border=false" />
