@@ -94,4 +94,4 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 
 ###
 
-<img src="https://raw.githubusercontent.com/Adamo08/Adamo08/output/snake.svg" alt="Snake animation" />
+<img style="width: 100%" src="https://raw.githubusercontent.com/Adamo08/Adamo08/output/snake.svg" alt="Snake animation" />
