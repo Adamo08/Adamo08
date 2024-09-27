@@ -38,7 +38,9 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 </div>
 
 <br>
+
 ## Learning Platforms
+
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px;">
 
   <h3>Platforms I'm Using to Learn:</h3>
