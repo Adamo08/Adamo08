@@ -80,7 +80,6 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 ## Projects (Work in Progress)
 🔄 Loading... I'm currently working on adding more projects. Check back later!
 
-
 <br clear="both">
 <br clear="both">
 <br clear="both">
