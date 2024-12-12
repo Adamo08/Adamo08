@@ -78,7 +78,7 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Projects (Work in Progress)
-🔄 Loading... I'm currently working on adding more projects. Check back later!
+🔄 Loading... I'm currently working on adding more projects. Feel free to check out my repositories on GitHub for the latest updates and ongoing projects. Stay tuned!
 
 <br clear="both">
 <br clear="both">
