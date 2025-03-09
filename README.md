@@ -64,6 +64,18 @@ A ```Computer Science Engineering student``` with a passion for programming and 
         <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
         </a>
+        <a href="https://laracasts.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Laracasts-gray?style=for-the-badge&logo=laracasts&logoColor=white" alt="Laracasts Badge"/>
+        </a>
+        <a href="https://www.geeksforgeeks.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks Badge"/>
+        </a>
+        <a href="https://www.udemy.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Badge"/>
+        </a>
+        <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge"/>
+        </a>
   </div>
 
 </div>
