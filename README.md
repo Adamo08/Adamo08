@@ -3,7 +3,7 @@ A ```Computer Science Engineering student``` with a passion for programming and 
 
 ## Connect with Me
 <div id="badges">
-    <a href="https://www.linkedin.com/in/omar-el-aaddam-ab77b626a">
+    <a href="https://www.linkedin.com/in/elaaddam-omar/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://web.facebook.com/omar.elaadam/">
