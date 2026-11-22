@@ -1,21 +1,24 @@
 # Hi there, I'm Adamo! 👋  
-🚀 **Full-Stack Developer & Computer Science Engineering Student** at [ENSA Marrakech](https://ensa-marrakech.uca.ma/)  
+🚀 **Software Engineer & Salesforce Developer** at **BYCN IT Maroc** · Computer Science Engineering graduate of [ENSA Marrakech](https://ensa-marrakech.uca.ma/)  
 
-Passionate about crafting innovative web applications that enhance user experience and leverage modern technologies.
+Passionate about crafting innovative web applications and enterprise solutions that enhance user experience and leverage modern technologies.
 
 ---
 
 ## 💫 About Me  
 <img align="right" width="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-- 🎓 3rd-year **Computer Science Engineering student** at ENSA-M 🇲🇦  
-- 💡 Specializing in **Full-Stack Web Development** and **Cloud Deployment**  
+- 🎓 **Computer Science Engineering graduate** from ENSA Marrakech (June 2026) 🇲🇦  
+- 💼 **Salesforce Developer** at BYCN IT Maroc (Bouygues Construction IT Maroc), based in **Sidi Maarouf, Casablanca** 📍  
+- 💡 Specializing in **Salesforce (Apex, LWC, Flow)**, **Full-Stack Web Development** and **Cloud Deployment**  
 - 🧠 Exploring **AI integration**, **Blockchain**, and **DevOps practices**  
-- 💬 Languages: **Python, JavaScript, TypeScript, PHP, Java, C/C++**  
-- ⚙️ Frameworks: **React, Angular, Flask, Spring Boot, Laravel, Django**  
-- 🧩 Databases: **MySQL, PostgreSQL, MongoDB**  
+- 💬 Languages: **Apex, Python, JavaScript, TypeScript, PHP, Java, C/C++, SQL**  
+- ⚙️ Frameworks: **LWC, React, Angular, Flask, Spring Boot, Laravel, Django**  
+- 🧩 Databases: **SOQL, MySQL, PostgreSQL, MongoDB**  
 - 🔐 Familiar with **JWT, OAuth2, RESTful APIs, Docker, Swagger**
   
+
+✍️ I write about computer science, software engineering, Salesforce and maths on my [blog](https://adamo-portfolio.vercel.app/blog).  
 
 📈 *"Always learning, always building."*
 
@@ -63,12 +66,19 @@ Platforms I use to **learn, upskill, and practice**:
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Salesforce**  
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/-Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/-LWC-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/-SOQL-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **Tools & DevOps**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -95,8 +105,8 @@ Platforms I use to **learn, upskill, and practice**:
 > A banking prototype with crypto-wallet integration, budgeting dashboard, and biometric payment.
 
 ### 🌐 [Portfolio Website](https://adamo-portfolio.vercel.app/)
-> **React, TypeScript, Chakra UI**  
-> Personal website showcasing my work, achievements, and projects.
+> **Astro, React, TypeScript, GSAP**  
+> Personal website with animated case studies and a blog on computer science, software engineering, Salesforce and maths.
 
 ---
 
